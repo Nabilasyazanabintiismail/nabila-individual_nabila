@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html>
+<head> 
+		<title>Biodata </title> 
+<style>
+body {background-color: #cc6699;}
+
+ul {list-style-type: none;
+	margin:0; 
+	padding: 0;
+	overflow: hidden;
+	background-color: #f9ecf2;} 
+
+li {float:left;}
+
+li a {display: block;
+	  color: black;
+	  text-align: center; 
+	  padding: 14px 16px; 
+	  text-decoration: none;}
+	  
+ 
+
+</style>
+
+<ul>
+
+	<li><a class= "active" href= "index.html">Home</a></li> 
+	<li><a class= "active" href="Biodata.html">Biodata</a></li>
+	<li><a class= "active" href="Experience.html">Experience</a></li>
+	<li><a href= "Education.html">Education</a></li>
+	<li><a href= "Family.html">Family</a></li>
+	<li><a href= "Gallery.html"> Gallery</a></li>
+	
+	
+</ul>
+</head> 
+
+<body> 
+<br></br>
+<center><h1>My Experience in life </h1>
+<p>the most thing That i really remmeber when i went to Korea with my friends</p>
+<p>It was a really great oppurtunity for me because i go to Korea alone without my parents </p>
+<p>It was really fun i go to Nami Island only using train that need to use 20 station at that time</p>
+<p>I think it going to be scary thing for me because go out from Malaysia without my parent 
+   but luckly i survive there. It was really fun actually
+   I just don't really like the toilet there because there was no water like in Malaysia</p>
+<p>I Hope i can go there again after this covid situation is done hoping for Malaysia to get better anytime soon</p>
+
+</body>
+
+
+
+</html>
